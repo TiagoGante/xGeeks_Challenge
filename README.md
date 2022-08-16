@@ -1,6 +1,6 @@
 # xGeeks_Challenge
 
-Tech stack: Eclipse, Selenium Webdriver and Java
+Tech stack: Eclipse, Selenium Webdriver, TestNG and Java
 
 Includes: Test cases, Automated tests and Screenshots
 
